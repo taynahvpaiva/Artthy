@@ -72,6 +72,4 @@ Para testar com lembranças fictícias, rode `python dados_demo.py` antes de ini
 | `recomendador.py` | Machine Learning: TF-IDF, similaridade e aprendizado |
 | `dados_demo.py` | Lembranças fictícias para teste |
 
-## Autora
 
-Projeto desenvolvido por [seu nome].
